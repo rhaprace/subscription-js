@@ -1,4 +1,4 @@
-# Subscription Tracker
+# Subscription
 
 A modern subscription management application that helps users track and manage their recurring payments, receive timely renewal reminders via email, and get insights into their subscription spending.
 
